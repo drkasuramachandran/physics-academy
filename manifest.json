@@ -1,0 +1,23 @@
+{
+  "name": "Dr. Ram Physics Academy",
+  "short_name": "Ram Physics",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "description": "Physics education, competitive exam preparation and mentorship by Dr. Ramachandran Kasu",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
